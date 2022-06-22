@@ -1,5 +1,12 @@
 # Getting Started with Create React App
 
+## This project is an inspiration from Frontend Mentor
+
+## Live demo hosted on Netlify
+```
+Still Under construction
+```
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
